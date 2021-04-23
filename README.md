@@ -14,4 +14,4 @@ Następnie wystarczy dodać urządzenie do wybranej instancji serwera Supli.
 Więcej na [wiki](https://github.com/Goral64/gui-generic-builder-online/wiki)
 oraz na forum [Supla.org](https://forum.supla.org/viewforum.php?f=88)
 
-![screen](https://raw.githubusercontent.com/Goral64/gui-generic-builder-online/main/gui-generic-builder-online.png)
+![screen](https://raw.githubusercontent.com/Goral64/gui-generic-builder-online/main/img/gui-generic-builder-online.png)
