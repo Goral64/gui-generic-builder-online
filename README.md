@@ -10,3 +10,5 @@ Wystarczy wybrać posiadaną płytkę/urządzenie, opcjonalnie ustawić dodatkow
 Firmware do urządzenia można wgrać programem flashującym "po kabelku" lub przez stronę WWW urządzenia jeśli jego aktualne firmware obsługuje OTA.
 
 Następnie wystarczy dodać urządzenie do wybranej instancji serwera Supli.
+
+![screen](https://raw.githubusercontent.com/Goral64/gui-generic-builder-online/main/gui-generic-builder-online.png)
