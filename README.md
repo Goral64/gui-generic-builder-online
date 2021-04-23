@@ -1,9 +1,9 @@
-# [GUI Generic Builder (online)]
+# [GUI Generic Builder (online)](https://gui-generic-builder.supla.io)
 ## _SUPLA nie może być łatwiejsza!_
 
-## [Supla] | [GUI Generic] | [SuplaDevice]
+## [Supla](https://www.supla.org) | [GUI Generic](https://github.com/krycha88/GUI-Generic) | [SuplaDevice](https://github.com/klew/supla-arduino)
 
-Narzędzie online służące do kompilacji firmware dla urządzeń IoT, opartego o środowisko [Supla] na podstawie [GUI Generic] opartego o bibliotekę [SuplaDevice].
+Narzędzie online służące do kompilacji firmware dla urządzeń IoT, opartego o środowisko [Supla](https://www.supla.org) na podstawie [GUI Generic](https://github.com/krycha88/GUI-Generic) opartego o bibliotekę [SuplaDevice](https://github.com/klew/supla-arduino).
 
 Wystarczy wybrać posiadaną płytkę/urządzenie, opcjonalnie ustawić dodatkowe funkcjonalności, kliknąć Generuj i po około minucie oczekiwania pobrać gotowy firmware.
 
